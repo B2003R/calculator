@@ -1,2 +1,2 @@
 #
-The above code can now add two number and divide two numbers
+The above code can now add new number , multiply two numbers and divide two numbers.
