@@ -1,1 +1,2 @@
-# The above code can now add two number and return the answer
+# README
+The above code can now add two number and multiply two number
